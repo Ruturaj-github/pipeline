@@ -62,7 +62,8 @@
         </plugin>
       </plugins>
     </pluginManagement>
-  
+  </build>
+
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
@@ -76,6 +77,5 @@
       <url>http://44.202.236.182:8081/repository/myrepo-hosted-release/</url>
     </repository>
   </distributionManagement>
-</build>
 
 </project>
